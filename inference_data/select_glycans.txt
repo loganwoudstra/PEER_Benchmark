@@ -1,0 +1,13 @@
+Name	IUPAC	SMILES
+L-aGlc-Sp0	L-Glc(α-Sp0	OC[C@H](O1)[C@H](O)[C@@H](O)[C@H](O)[C@@H]1-OCCN-C(=O)CCCOC
+L-bGlc-Sp0	L-Glc(β-Sp0	OC[C@H](O1)[C@H](O)[C@@H](O)[C@H](O)[C@H]1-OCCN-C(=O)CCCOC
+L-Man-Sp0	L-Man(α-Sp0	OC[C@H](O1)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1-OCCN-C(=O)CCCOC
+L-Rha-Sp0	Rha(α-Sp0	C[C@H](O1)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1-OCCN-C(=O)CCCOC
+L-aGal-Sp0	L-Gal(α-Sp0	OC[C@H](O1)[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1-OCCN-C(=O)CCCOC
+L-Fuc-Sp0	Fuc(α-Sp0	C[C@H](O1)[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1-OCCN-C(=O)CCCOC
+D-aGlc-Sp0	Glc(α-Sp0	OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1-OCCN-C(=O)CCCOC
+D-bGlc-Sp0	Glc(β-Sp0	OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1-OCCN-C(=O)CCCOC
+D-Man-Sp0	Man(α-Sp0	OC[C@@H](O1)[C@@H](O)[C@H](O)[C@H](O)[C@H]1-OCCN-C(=O)CCCOC
+D-Rha-Sp0	D-Rha(α-Sp0	C[C@@H](O1)[C@@H](O)[C@H](O)[C@H](O)[C@H]1-OCCN-C(=O)CCCOC
+D-Gal-Sp0	Gal(α-Sp0	OC[C@@H](O1)[C@H](O)[C@H](O)[C@@H](O)[C@H]1-OCCN-C(=O)CCCOC
+D-Fuc-Sp0	D-Fuc(α-Sp0	C[C@@H](O1)[C@H](O)[C@H](O)[C@@H](O)[C@H]1-OCCN-C(=O)CCCOC

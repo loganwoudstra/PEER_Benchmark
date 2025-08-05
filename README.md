@@ -149,3 +149,13 @@ If you find this codebase helpful in your research, please cite the following pa
   year={2022}
 }
 ```
+
+## My Fork ##
+To train a CNN model for protein-ligand interaction prediction on BindingDB, I needed to change the config file such that the input_dim of model2 is 67, not 66.
+I was then able to run the following command to train the model.
+
+```
+python script/run_single.py -c config/single_task/CNN/bindingdb_CNN.yaml --seed 0
+```
+
+With the trained model, you can use inference.py to make predictions on given protein and glycan datasets.
