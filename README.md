@@ -158,4 +158,7 @@ I was then able to run the following command to train the model.
 python script/run_single.py -c config/single_task/CNN/bindingdb_CNN.yaml --seed 0
 ```
 
+The saved models, logs, and training config is available [here](https://drive.google.com/drive/folders/1BuG5edzDw5pWML8g7iQcTcT2MhHYbI2J?usp=sharing).
+For inference, you must download the config and a saved model and point to it in inference.py.
+
 With the trained model, you can use inference.py to make predictions on given protein and glycan datasets.
