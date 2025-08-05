@@ -1,6 +1,6 @@
 # PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding
 
-This is the official codebase of the paper [PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding](https://arxiv.org/pdf/2206.02096.pdf), 
+This is a fork of the codebase of the paper [PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding](https://arxiv.org/pdf/2206.02096.pdf), 
 accepted by **NeurIPS 2022 Dataset and Benchmark Track** ([OpenReview link](https://openreview.net/forum?id=QgTZ56-zJou)).
 
 [Minghao Xu*](https://chrisallenming.github.io),
