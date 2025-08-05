@@ -28,7 +28,7 @@ task:
     padding: 2
   model2:
     class: GIN
-    input_dim: 66
+    input_dim: 67
     hidden_dims: [256, 256, 256, 256]
     batch_norm: yes
     short_cut: yes
@@ -45,7 +45,7 @@ optimizer:
   lr: 2.0e-4
 
 engine:
-  gpus: [0, 1, 2, 3]
+  gpus: [0]
   batch_size: 32
 
 train:
