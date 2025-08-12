@@ -48,7 +48,7 @@ def run_inference(model, smiles_df, protein_df, batch_size=64):
     
 # --- Load config and checkpoint ---
 cfg = util.load_config("/home/amberlab/scratch/torchprotein_output/InteractionPrediction/BindingDB/ProteinConvolutionalNetwork_2025-08-05-10-08-50/bindingdb_CNN.yaml")
-cfg.checkpoint = "/home/amberlab/scratch/torchprotein_output/InteractionPrediction/BindingDB/ProteinConvolutionalNetwork_2025-08-05-10-08-50/model_epoch_100.pth"
+cfg.checkpoint = "/home/amberlab/scratch/torchprotein_output/InteractionPrediction/BindingDB/ProteinConvolutionalNetwork_2025-08-05-10-08-50/model_epoch_90.pth"
 
 # --- Build solver & extract model ---
 solver = build_solver(cfg, DummyLogger())
